@@ -6,7 +6,7 @@
     <title> tarea 1</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css 'media='screen' href='main.css'>
-    <script src='main.js'></script>
+   
 </head>
 </html><body>
     <h1>ingrese una foto suya</h1>
