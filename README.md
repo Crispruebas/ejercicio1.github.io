@@ -8,7 +8,7 @@
 
     <img src="imagen cris.jpg" height="200px" width="200px">
     
-    <h2>ingrese una foto de su mascota</h2>
+<h2>ingrese una foto de su mascota</h2>
 
     <img src="imagen estrella.jpg" height="200px" width="200px">
 
